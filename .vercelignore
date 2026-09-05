@@ -1,0 +1,9 @@
+node_modules
+dist
+src-tauri/target
+src-tauri/gen/android/.gradle
+src-tauri/gen/android/build
+src-tauri/gen/android/app/build
+src-tauri/gen/android/app/src/main/jniLibs
+src-tauri/gen/android/nont-light.jks
+src-tauri/gen/android/keystore.properties

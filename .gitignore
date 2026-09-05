@@ -12,6 +12,17 @@ dist
 dist-ssr
 *.local
 
+# Never publish Android signing credentials.
+*.jks
+*.keystore
+src-tauri/gen/android/keystore.properties
+src-tauri/target/
+src-tauri/gen/android/.gradle/
+src-tauri/gen/android/build/
+src-tauri/gen/android/app/build/
+src-tauri/gen/android/app/src/main/jniLibs/
+src-tauri/gen/android/local.properties
+
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json
