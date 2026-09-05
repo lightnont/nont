@@ -1,0 +1,17 @@
+C:\Users\abbas\Documents\Codex\2026-09-05\files-mentioned-by-the-user-nont\work\nont\src-tauri\target\release\deps\unic_char_range-b62c577c1e5a6072.d: C:\Users\abbas\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\unic-char-range-0.9.0\src\lib.rs C:\Users\abbas\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\unic-char-range-0.9.0\src\pkg_info.rs C:\Users\abbas\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\unic-char-range-0.9.0\src\iter.rs C:\Users\abbas\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\unic-char-range-0.9.0\src\range.rs C:\Users\abbas\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\unic-char-range-0.9.0\src\macros.rs C:\Users\abbas\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\unic-char-range-0.9.0\src\step.rs C:\Users\abbas\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\unic-char-range-0.9.0\src\iter_fused.rs
+
+C:\Users\abbas\Documents\Codex\2026-09-05\files-mentioned-by-the-user-nont\work\nont\src-tauri\target\release\deps\libunic_char_range-b62c577c1e5a6072.rlib: C:\Users\abbas\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\unic-char-range-0.9.0\src\lib.rs C:\Users\abbas\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\unic-char-range-0.9.0\src\pkg_info.rs C:\Users\abbas\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\unic-char-range-0.9.0\src\iter.rs C:\Users\abbas\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\unic-char-range-0.9.0\src\range.rs C:\Users\abbas\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\unic-char-range-0.9.0\src\macros.rs C:\Users\abbas\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\unic-char-range-0.9.0\src\step.rs C:\Users\abbas\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\unic-char-range-0.9.0\src\iter_fused.rs
+
+C:\Users\abbas\Documents\Codex\2026-09-05\files-mentioned-by-the-user-nont\work\nont\src-tauri\target\release\deps\libunic_char_range-b62c577c1e5a6072.rmeta: C:\Users\abbas\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\unic-char-range-0.9.0\src\lib.rs C:\Users\abbas\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\unic-char-range-0.9.0\src\pkg_info.rs C:\Users\abbas\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\unic-char-range-0.9.0\src\iter.rs C:\Users\abbas\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\unic-char-range-0.9.0\src\range.rs C:\Users\abbas\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\unic-char-range-0.9.0\src\macros.rs C:\Users\abbas\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\unic-char-range-0.9.0\src\step.rs C:\Users\abbas\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\unic-char-range-0.9.0\src\iter_fused.rs
+
+C:\Users\abbas\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\unic-char-range-0.9.0\src\lib.rs:
+C:\Users\abbas\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\unic-char-range-0.9.0\src\pkg_info.rs:
+C:\Users\abbas\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\unic-char-range-0.9.0\src\iter.rs:
+C:\Users\abbas\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\unic-char-range-0.9.0\src\range.rs:
+C:\Users\abbas\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\unic-char-range-0.9.0\src\macros.rs:
+C:\Users\abbas\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\unic-char-range-0.9.0\src\step.rs:
+C:\Users\abbas\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\unic-char-range-0.9.0\src\iter_fused.rs:
+
+# env-dep:CARGO_PKG_DESCRIPTION=UNIC — Unicode Character Tools — Character Range and Iteration
+# env-dep:CARGO_PKG_NAME=unic-char-range
+# env-dep:CARGO_PKG_VERSION=0.9.0

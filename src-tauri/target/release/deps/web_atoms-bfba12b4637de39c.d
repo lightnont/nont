@@ -1,0 +1,11 @@
+C:\Users\abbas\Documents\Codex\2026-09-05\files-mentioned-by-the-user-nont\work\nont\src-tauri\target\release\deps\web_atoms-bfba12b4637de39c.d: C:\Users\abbas\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\web_atoms-0.2.6\lib.rs C:\Users\abbas\Documents\Codex\2026-09-05\files-mentioned-by-the-user-nont\work\nont\src-tauri\target\release\build\web_atoms-2e19a2773c8113e4\out/named_entities.rs C:\Users\abbas\Documents\Codex\2026-09-05\files-mentioned-by-the-user-nont\work\nont\src-tauri\target\release\build\web_atoms-2e19a2773c8113e4\out/generated.rs
+
+C:\Users\abbas\Documents\Codex\2026-09-05\files-mentioned-by-the-user-nont\work\nont\src-tauri\target\release\deps\libweb_atoms-bfba12b4637de39c.rlib: C:\Users\abbas\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\web_atoms-0.2.6\lib.rs C:\Users\abbas\Documents\Codex\2026-09-05\files-mentioned-by-the-user-nont\work\nont\src-tauri\target\release\build\web_atoms-2e19a2773c8113e4\out/named_entities.rs C:\Users\abbas\Documents\Codex\2026-09-05\files-mentioned-by-the-user-nont\work\nont\src-tauri\target\release\build\web_atoms-2e19a2773c8113e4\out/generated.rs
+
+C:\Users\abbas\Documents\Codex\2026-09-05\files-mentioned-by-the-user-nont\work\nont\src-tauri\target\release\deps\libweb_atoms-bfba12b4637de39c.rmeta: C:\Users\abbas\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\web_atoms-0.2.6\lib.rs C:\Users\abbas\Documents\Codex\2026-09-05\files-mentioned-by-the-user-nont\work\nont\src-tauri\target\release\build\web_atoms-2e19a2773c8113e4\out/named_entities.rs C:\Users\abbas\Documents\Codex\2026-09-05\files-mentioned-by-the-user-nont\work\nont\src-tauri\target\release\build\web_atoms-2e19a2773c8113e4\out/generated.rs
+
+C:\Users\abbas\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\web_atoms-0.2.6\lib.rs:
+C:\Users\abbas\Documents\Codex\2026-09-05\files-mentioned-by-the-user-nont\work\nont\src-tauri\target\release\build\web_atoms-2e19a2773c8113e4\out/named_entities.rs:
+C:\Users\abbas\Documents\Codex\2026-09-05\files-mentioned-by-the-user-nont\work\nont\src-tauri\target\release\build\web_atoms-2e19a2773c8113e4\out/generated.rs:
+
+# env-dep:OUT_DIR=C:\\Users\\abbas\\Documents\\Codex\\2026-09-05\\files-mentioned-by-the-user-nont\\work\\nont\\src-tauri\\target\\release\\build\\web_atoms-2e19a2773c8113e4\\out

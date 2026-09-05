@@ -1,0 +1,10 @@
+C:\Users\abbas\Documents\Codex\2026-09-05\files-mentioned-by-the-user-nont\work\nont\src-tauri\target\release\deps\webview2_com-ace989a1b968ff3d.d: C:\Users\abbas\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\webview2-com-0.38.2\src\lib.rs C:\Users\abbas\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\webview2-com-0.38.2\src\callback.rs C:\Users\abbas\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\webview2-com-0.38.2\src\options.rs C:\Users\abbas\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\webview2-com-0.38.2\src\pwstr.rs
+
+C:\Users\abbas\Documents\Codex\2026-09-05\files-mentioned-by-the-user-nont\work\nont\src-tauri\target\release\deps\libwebview2_com-ace989a1b968ff3d.rlib: C:\Users\abbas\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\webview2-com-0.38.2\src\lib.rs C:\Users\abbas\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\webview2-com-0.38.2\src\callback.rs C:\Users\abbas\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\webview2-com-0.38.2\src\options.rs C:\Users\abbas\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\webview2-com-0.38.2\src\pwstr.rs
+
+C:\Users\abbas\Documents\Codex\2026-09-05\files-mentioned-by-the-user-nont\work\nont\src-tauri\target\release\deps\libwebview2_com-ace989a1b968ff3d.rmeta: C:\Users\abbas\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\webview2-com-0.38.2\src\lib.rs C:\Users\abbas\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\webview2-com-0.38.2\src\callback.rs C:\Users\abbas\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\webview2-com-0.38.2\src\options.rs C:\Users\abbas\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\webview2-com-0.38.2\src\pwstr.rs
+
+C:\Users\abbas\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\webview2-com-0.38.2\src\lib.rs:
+C:\Users\abbas\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\webview2-com-0.38.2\src\callback.rs:
+C:\Users\abbas\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\webview2-com-0.38.2\src\options.rs:
+C:\Users\abbas\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\webview2-com-0.38.2\src\pwstr.rs:
